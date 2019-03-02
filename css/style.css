@@ -24,6 +24,7 @@ body {
     font-family: 'Rubik', sans-serif;
     position: relative;
     background: black;
+    overflow: hidden;
 }
 
 a {
@@ -170,13 +171,13 @@ p.lead {
 ----------------------*/
 
 .logo {
-    width: 36%;
-    height: 18%;
+    width: 35%;
 }
 
 .nav-menu {
     padding: 1rem 0;
     transition: all 0.3s ease;
+    background-color: black;
 }
 
 .nav-menu.is-scrolling,
@@ -251,7 +252,7 @@ header {
 
 .img-holder {
     height: 0;
-    padding-bottom: 24%;
+    padding-bottom: 30%;
     overflow: hidden;
 }
 
