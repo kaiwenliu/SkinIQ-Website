@@ -165,7 +165,7 @@ p.lead {
         font-size: 40px;
     }
     h2 {
-        font-size: 30px;
+       font-size: 30px;
     }
 }
 
@@ -174,7 +174,8 @@ p.lead {
 ----------------------*/
 
 .logo {
-    width: 35%;
+
+    width: 60%;
 }
 
 .nav-menu {
@@ -224,7 +225,9 @@ p.lead {
     }
 }
 
-
+.navbar-brand {
+    width: 35%;
+}
 /* HERO
 ----------------------*/
 
